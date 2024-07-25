@@ -1,0 +1,6 @@
+[options]
+addons_path = /Users/egagofur/Development/odoo/odoo/odoo/addons, /Users/egagofur/Development/odoo/odoo/addons
+longpolling_port = False
+gevent_port = 8072
+admin_passwd = $pbkdf2-sha512$600000$GOO8FwJgzLl37r3Xeu.dkw$lC2ejA.iPt4uNaM9Xw9cYmow9Frp5E3aVpgCHnnEaceBBy1it4jNL3e/860aQuHt2/Ww79W6skdddOMF3cnD6Q
+
